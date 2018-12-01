@@ -20,4 +20,4 @@ STEPS TO USE THE TOOL:
 
 NOTE: DO NOT PLAY WITH THE CODE. IF THE CODE CHANGES PROGRAM WILL CRASH.
 
-FOR ANY ASSISTANCE on how to use the code WATCH THE VIDEO https://drive.google.com/file/d/1GW2L2YS58mckp_BXhmxHViW-UWPvH7LQ/view or mail @ s.gaur@uqconnect.edu.au  
+FOR ANY ASSISTANCE on how to use the code WATCH THE VIDEO https://drive.google.com/file/d/1GW2L2YS58mckp_BXhmxHViW-UWPvH7LQ/view or send e-mail @ s.gaur@uqconnect.edu.au  

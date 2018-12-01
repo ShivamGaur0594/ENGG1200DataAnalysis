@@ -12,7 +12,7 @@ STEPS TO USE THE TOOL:
 
 2. You will be redirected to a page with the label 'Binder' at the top. The page will still be loading. Wait till the loading process finishes. Do not press any button.
 
-3. Once the above page finishes loading, you will be redirected to juoyter notebook page. It will have certain files necesaary for the application to run. Right click on the 'SSPP Web app.ipynb' file and open it in a new tab. Do not touch or open other files. A juputer notebook page opes with the heading 'ENGG1200 Data Analysis'.
+3. Once the above page finishes loading, you will be redirected to jupyter notebook page. It will have certain files necesaary for the application to run. Right click on the 'SSPP Web app.ipynb' file and open it in a new tab. Do not touch or open other files. A juputer notebook page opes with the heading 'ENGG1200 Data Analysis'.
 
 4. In the SSPP Web app jupyter notebook page, select the cell containing the heading 'ENGG1200 Data Analysis' by clicking on the heading. Click on the 'run' button at the top thrice. After the clicking it thrice, the code compiles and program runs and you will see six buttons in blue at the bottom of page.
 
